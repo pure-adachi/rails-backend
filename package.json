@@ -1,0 +1,23 @@
+{
+  "name": "rails-backend",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "start": "bundle exec foreman start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pure-adachi/rails-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pure-adachi/rails-backend/issues"
+  },
+  "homepage": "https://github.com/pure-adachi/rails-backend#readme"
+}
